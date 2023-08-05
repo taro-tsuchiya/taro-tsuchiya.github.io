@@ -2,25 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+description: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: TaroTsuchiya_pic.JPG
+  address: (email) ttsuchiy at cs.cmu.edu
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+# latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student at Carnegie Mellon University ([CMU](https://www.cmu.edu/){:target="\_blank"}) School of Computer Science ([SCS](https://www.cs.cmu.edu/){:target="\_blank"}), studying Societal Computing at Software and Societal Systems ([S3D](https://s3d.cmu.edu/){:target="\_blan}). It is fortunate to be advised by Dr. [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/){:target="\_blan} and work with his team at [CyLab](https://www.cylab.cmu.edu/){:target="\_blank"} (Security and Privacy Institute). My current research interest lies in building financial safety and trust online. My work includes 1) online misbehavior & account suspension in online platforms, 2) scam detection in the P2P marketplace and 3) blockchain forensics and network measurement. I am also a recipient of Nakajima Foundation Fellow (2021-2023, 2023-2025) for my doctoral study.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to CMU, I did my undergraduate in Japan at Keio University Faculty of Economics and enrolled in the selected all-English undergraduate program: [PEARL](https://pearl.keio.ac.jp/){:target="\_blank"} (Program in Economics for Alliances, Research, and Leadership). I also studied in [SOAS University of London](https://www.soas.ac.uk/) for one term in 2017. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Two of my first author papers on market manipulation were presented at various conferences and published in an international peer-reviewed journal during my undergrad. I was also a research assistant at Cyber Civilization Research Center ([CCRC](https://www.ccrc.keio.ac.jp/){:target="\_blank"}) and helped build the new course with MIT Probabilistic Computing. I did a long-term internship at Mitsubishi UFJ Bank as an AI engineer.
+
+Last but not least, I like dogs, rugby, and classical music.
+
+<!--
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+
+Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+-->
+
