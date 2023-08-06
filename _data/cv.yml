@@ -2,96 +2,80 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Taro Tsuchiya
+    - name: Email
+      value: ttsuchiy@cs.cmu.edu
+    - name: Location
+      value: Pittsburgh, PA, USA 
     - name: Languages
-      value: English, German
+      value: Japanese, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Carnegie Mellon University, School of Computer Science
+      year: 08.2021 - 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Societal Computing Program at Software and Societal Systems Department (<a href="https://s3d.cmu.edu/">S3D</a>)
+        - Doctoral researcher at <a href="https://www.cylab.cmu.edu/">Cylab</a> (Security and Privacy Institute)
+        - Advisor <a href="https://www.andrew.cmu.edu/user/nicolasc/">Dr. Nicolas Christin</a>
+        - title: Courses taken
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Artificial Intelligence Methods for Social Good
+            - Advanced Natural Language Processing
+            - Introduction to Information Security
+            - Dynamic Network Analysis
+            - Cryptocurrency, Blockchain, and Application
+            - Experimental Design
+            - Societal Computing Practicum
+    - title: Bachelor
+      institution: Keio University, Faculty of Economics
+      year: 09.2017 - 07.2021
       description:
-        - Description 1.
-        - Description 2.
+        - Advisor Dr. Teruo Nakatsuma
+        - Enrolled in the PEARL (Programme in Economics, Alliance, Research, and Leadership) program
+        - Undergraduate Thesis "Forecasting Cryptocurrency Intraday Volatility using Information Flow on Telegram" -- Excellent Graduation Theses, Keio University Faculty of Economics
 
-- title: Experience
+- title: Work
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Research Assistant 
+      institution: Cyber Civilization Research Center (<a href="https://www.ccrc.keio.ac.jp/">CCRC</a>)
+      year: 02 - 07.2021
+    - title: Research Intern
+      institution: Mitsubishi UFJ Bank
+      year: 01 - 03.2020
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: TA for Seminar for an Introduction to Probabilistic Computing
+      institution: MIT Probabilistic Computing and Keio University
+      year: Spring 2021
+      description: Instructor <a href="https://cfreer.org/"">Dr. Cameron Freer</a> 
 
-- title: Honors and Awards
+- title: Talk  
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - maindescription: Paper Presentation at Web Conference (WWW'23) at Austin, USA
+      year: 05.2023
+    - maindescription: Invited talk at Keio University Cyber Civilization Revolution and Evolution "The contradictory world of cryptocurrencies"
+      year: 11.2022
+    - maindescription: Paper Presentation talk at Societal Computing Seminar at Carnegie Mellon University Software and Societal Systems Department
+      year: 11.2022
+    - maindescription: Invited talk at Keio University Cyber Civilization Revolution and Evolution "Society and cryptocurrencies"
+      year: 06.2022
+    - maindescription: Organizer at the 50 years of Distributed Computing System (DCS) online video conference
+      year: 05.2021
+    - maindescription: Paper presentation at Japan Joint Statistical Meeting 2020, Online
+      year: 09.2020
+    - maindescription: Paper presentation at 53rd Japan Association of Financial Econometrics and Engineering (JASSO), Online
+      year: 08.2020
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Hobbies 
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Dogs:</u> Missing my dog in Japan...
+    - <u>Rugby:</u> I watched many many rugby games since my childhood. Big fan of League One, College Rugby, Super Rugby.
+    - <u>Violin:</u> I had played the violin for 19 years. 
