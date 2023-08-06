@@ -19,7 +19,7 @@ Hello, welcome to my webpage! I am a Ph.D. student at Carnegie Mellon University
 
 Prior to CMU, I did my undergraduate in Japan at Keio University Faculty of Economics and enrolled in the selected all-English undergraduate program: [PEARL](https://pearl.keio.ac.jp/){:target="\_blank"} (Program in Economics for Alliances, Research, and Leadership). I also studied in [SOAS University of London](https://www.soas.ac.uk/) for one term in 2017. 
 
-During my undergrad, two of my first author papers on market manipulation were presented at various conferences and published in an international peer-reviewed journal. I was also a research assistant at Cyber Civilization Research Center ([CCRC](https://www.ccrc.keio.ac.jp/){:target="\_blank"}) and helped build the new course with MIT Probabilistic Computing. I did a long-term internship at Mitsubishi UFJ Bank as an research intern.
+During my undergrad, two of my first author papers on market manipulation were presented at various conferences and published in an international peer-reviewed journal. I was also a research assistant at Cyber Civilization Research Center ([CCRC](https://www.ccrc.keio.ac.jp/){:target="\_blank"}), worked with Dr. David Farber and Dr. [Cameron Freer](https://cfreer.org/){:target="\_blank"}, and helped build the new course with MIT Probabilistic Computing. I did a long-term internship at Mitsubishi UFJ Bank as an research intern.
 
 Last but not least, I like dogs, rugby, and classical music.
 
