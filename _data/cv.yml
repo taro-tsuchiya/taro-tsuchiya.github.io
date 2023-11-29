@@ -40,6 +40,9 @@
 - title: Work
   type: time_table
   contents:
+    - title: Doctoral Researcher
+      institution: (<a href="https://www.cylab.cmu.edu/">Cylab</a>) Security and Privacy Institute
+      year: Aug 2021 -  
     - title: Research Assistant 
       institution: Cyber Civilization Research Center (<a href="https://www.ccrc.keio.ac.jp/">CCRC</a>)
       year: Feb - Jul 2021
@@ -50,6 +53,10 @@
 - title: Teaching
   type: time_table
   contents:
+    - title: TA for 17703 Cryptocurrencies, Blockchain and Applications
+      institution: Carnegie Mellon School of Computer Science (S3D)
+      year: Fall 2023
+      description: Instructor Professor Nicolas Chritin 
     - title: TA for Seminar for an Introduction to Probabilistic Computing
       institution: MIT Probabilistic Computing and Keio University
       year: Spring 2021
