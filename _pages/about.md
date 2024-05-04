@@ -22,7 +22,7 @@ Specifically, my work delves into the detection and mitigation of online miscond
 I mainly investigate two key areas: 1) the online platforms such as financial social media and digital marketplaces (WWW'23 and WWW'24), and 2) blockchain peer-to-peer networks (WWW'24).
 I am also a recipient of Nakajima Foundation Fellowship (2021-2023, 2023-2025) for my doctoral study.  
 
-Prior to CMU, I did my undergraduate in Japan at Keio University Faculty of Economics and enrolled in the selected all-English undergraduate program: PEARL(Program in Economics for Alliances, Research, and Leadership). 
+Prior to CMU, I did my undergraduate in Japan at Keio University Faculty of Economics and enrolled in the selected all-English undergraduate program: PEARL (Program in Economics for Alliances, Research, and Leadership). 
 I also studied in [SOAS University of London](https://www.soas.ac.uk/) for one term in 2017. 
 
 During my undergrad, two of my first author papers on market manipulation were presented at various conferences and published in an international peer-reviewed journal. 
