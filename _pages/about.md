@@ -17,9 +17,9 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, welcome to my webpage! I am a Ph.D. student at Carnegie Mellon University ([CMU](https://www.cmu.edu/){:target="\_blank"}) School of Computer Science ([SCS](https://www.cs.cmu.edu/){:target="\_blank"}), studying Societal Computing at Software and Societal Systems ([S3D](https://s3d.cmu.edu/){:target="\_blan}). 
 I am fortunate to be advised by Dr. [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/){:target="\_blan} and work with his team at [CyLab](https://www.cylab.cmu.edu/){:target="\_blank"} (Security and Privacy Institute). 
-My primary research focuses on enhancing the safety, security, and privacy of financial transactions. 
-Specifically, my work delves into the detection and mitigation of online misconduct, including fraud, phishing, and denial-of-service attacks. 
-I mainly investigate two key areas: 1) the online platforms such as financial social media and digital marketplaces (WWW'23 and WWW'24), and 2) blockchain peer-to-peer networks (WWW'24).
+My primary research focuses on buiding a safe, secure and private financial systems. 
+Specifically, my work delves into the detection and mitigation of online misconduct, including fraud, phishihg, reputation manipulation, and denial-of-service (DoS) attacks. 
+I mainly investigate two key areas: 1) the online platforms such as financial social media and digital marketplaces, and 2) blockchain such as peer-to-peer networks and wallets.
 I am also a recipient of Nakajima Foundation Fellowship (2021-2023, 2023-2025) for my doctoral study.  
 
 Prior to CMU, I did my undergraduate in Japan at Keio University Faculty of Economics and enrolled in the selected all-English undergraduate program: PEARL (Program in Economics for Alliances, Research, and Leadership). 
