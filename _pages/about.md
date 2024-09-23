@@ -15,12 +15,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, welcome to my webpage! I am a Ph.D. student at Carnegie Mellon University ([CMU](https://www.cmu.edu/){:target="\_blank"}) School of Computer Science ([SCS](https://www.cs.cmu.edu/){:target="\_blank"}), studying Societal Computing at Software and Societal Systems ([S3D](https://s3d.cmu.edu/){:target="\_blan}). 
+Hello, welcome to my webpage! I am a Ph.D. student at Carnegie Mellon University ([CMU](https://www.cmu.edu/){:target="\_blank"}) School of Computer Science ([SCS](https://www.cs.cmu.edu/){:target="\_blank"}), studying Societal Computing at Software and Societal Systems Department ([S3D](https://s3d.cmu.edu/){:target="\_blan}). 
 I am fortunate to be advised by Dr. [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/){:target="\_blan} and work with his team at [CyLab](https://www.cylab.cmu.edu/){:target="\_blank"} (Security and Privacy Institute). 
-My primary research focuses on buiding a safe, secure and private financial systems. 
-Specifically, my work delves into the detection and mitigation of online misconduct, including fraud, phishihg, reputation manipulation, and denial-of-service (DoS) attacks. 
-I mainly investigate two key areas: 1) the online platforms such as financial social media and digital marketplaces, and 2) blockchain such as peer-to-peer networks and wallets.
-I am also a recipient of Nakajima Foundation Fellowship (2021-2023, 2023-2025) for my doctoral study.  
+My primary research centers on building safe, secure, and private financial systems. 
+Specifically, my work focuses on detecting and mitigating online misconduct, including market manipulation, phishing, sybil, and denial-of-service (DoS) attacks.
+I mainly investigate two key areas: 1) blockchain such as peer-to-peer networks and wallets and 2) online platforms such as social media and digital marketplaces.
+I am a recipient of Nakajima Foundation Fellowship (2021-2023, 2023-2025) for my doctoral study.  
 
 Prior to CMU, I did my undergraduate in Japan at Keio University Faculty of Economics and enrolled in the selected all-English undergraduate program: PEARL (Program in Economics for Alliances, Research, and Leadership). 
 I also studied in [SOAS University of London](https://www.soas.ac.uk/) for one term in 2017. 
