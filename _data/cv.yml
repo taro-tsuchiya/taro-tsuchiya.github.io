@@ -66,13 +66,15 @@
 - title: Talk  
   type: time_table
   contents:
-    - maindescription: Paper Presentation at Cylab Student Seminar at Pittsburgh, USA
+    - maindescription: Paper Presentation at Cylab Partner's Conference, Pittsburgh, USA
       year: Sep 2024
-    - maindescription: Paper Presentation at Web Conference (WWW'23) at Austin, USA
+    - maindescription: Paper Presentation at Cylab Student Seminar, Pittsburgh, USA
+      year: Sep 2024
+    - maindescription: Paper Presentation at Web Conference (WWW'23), Austin, USA
       year: May 2023
     - maindescription: Invited talk at Keio University Cyber Civilization Revolution and Evolution "The contradictory world of cryptocurrencies"
       year: Nov 2022
-    - maindescription: Paper Presentation talk at Societal Computing Seminar at Carnegie Mellon University Software and Societal Systems Department
+    - maindescription: Paper Presentation talk at Societal Computing Seminar at CMU S3D, Pittsburgh, USA
       year: Nov 2022
     - maindescription: Invited talk at Keio University Cyber Civilization Revolution and Evolution "Society and cryptocurrencies"
       year: Jun 2022
@@ -82,6 +84,22 @@
       year: Sep 2020
     - maindescription: Paper presentation at 53rd Japan Association of Financial Econometrics and Engineering (JASSO), Online
       year: Aug 2020
+
+# - title: Fellowship
+#   type: time_table
+#   contents:
+#     - maindescription: The Nakajima Foundation, Ph.D. Fellowship
+#       year: Aug 2023 - Jul 2025
+#     - maindescription: The Nakajima Foundation, Ph.D. Fellowship
+#       year: Aug 2021 - Jul 2023
+
+- title: Research Grants
+  type: time_table
+  contents:
+    - maindescription: Sui Academic Research Award from the Sui Foundation (a main researcher) 25K USD
+      year: Jun 2024
+    - maindescription: Ethereum Foundation Academic Grant Blockchain Censorship (a part of the team) 25K USD
+      year: Jan 2024
 
 - title: Miscellaneous 
   type: list
