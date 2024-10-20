@@ -8,7 +8,7 @@
     - name: Location
       value: Pittsburgh, PA, USA 
     - name: Languages
-      value: Japanese, English
+      value: English, Japanese
 
 - title: Education
   type: time_table
@@ -66,6 +66,8 @@
 - title: Talk  
   type: time_table
   contents:
+    - maindescription: Invited Talk at University of Sydney, DeSci Seminar, Online
+      year: Oct 2024
     - maindescription: Paper Presentation at Cylab Partner's Conference, Pittsburgh, USA
       year: Sep 2024
     - maindescription: Paper Presentation at Cylab Student Seminar, Pittsburgh, USA
