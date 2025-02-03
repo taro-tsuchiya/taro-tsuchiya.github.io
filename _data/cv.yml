@@ -74,11 +74,11 @@
       year: Sep 2024
     - maindescription: Paper Presentation at Web Conference (WWW'23), Austin, USA
       year: May 2023
-    - maindescription: Invited talk at Keio University Cyber Civilization Revolution and Evolution "The contradictory world of cryptocurrencies"
+    - maindescription: Guest lecture at Keio University Cyber Civilization Revolution and Evolution "The contradictory world of cryptocurrencies"
       year: Nov 2022
     - maindescription: Paper Presentation talk at Societal Computing Seminar at CMU S3D, Pittsburgh, USA
       year: Nov 2022
-    - maindescription: Invited talk at Keio University Cyber Civilization Revolution and Evolution "Society and cryptocurrencies"
+    - maindescription: Guest lecture at Keio University Cyber Civilization Revolution and Evolution "Society and cryptocurrencies"
       year: Jun 2022
     - maindescription: Organizer at the 50 years of Distributed Computing System (DCS) online video conference
       year: Mar 2021
@@ -102,6 +102,19 @@
       year: Jun 2024
     - maindescription: Ethereum Foundation Academic Grant Blockchain Censorship (a part of the team) 25K USD
       year: Jan 2024
+  
+- title: Academic service 
+  type: time_table
+  contents:
+    - maindescription: Program Committee for Financial Cryptography and Data Security (FC'25)
+      year: 2025
+    - maindescription: Program Committee for Web Conference (WWW'25)
+      year: 2025
+    - maindescription: Artifact Review for Privacy Enhancing Technologies Symposium (PETS'25)
+      year: 2025
+    - maindescription: Program Committee for ACM CCS Workshop on Decentralized Finance and Security (DeFi'24)
+      year: 2024
+    
 
 - title: Miscellaneous 
   type: list
