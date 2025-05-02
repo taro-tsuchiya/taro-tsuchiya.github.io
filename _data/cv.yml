@@ -103,17 +103,17 @@
     - maindescription: Ethereum Foundation Academic Grant Blockchain Censorship (a part of the team) 25K USD
       year: Jan 2024
   
-- title: Academic service 
-  type: time_table
-  contents:
-    - maindescription: Program Committee for Financial Cryptography and Data Security (FC'25)
-      year: 2025
-    - maindescription: Program Committee for Web Conference (WWW'25)
-      year: 2025
-    - maindescription: Artifact Review for Privacy Enhancing Technologies Symposium (PETS'25)
-      year: 2025
-    - maindescription: Program Committee for ACM CCS Workshop on Decentralized Finance and Security (DeFi'24)
-      year: 2024
+# - title: Academic service 
+#   type: time_table
+#   contents:
+#     - maindescription: Program Committee for Financial Cryptography and Data Security (FC'25)
+#       year: 2025
+#     - maindescription: Program Committee for Web Conference (WWW'25)
+#       year: 2025
+#     - maindescription: Artifact Review for Privacy Enhancing Technologies Symposium (PETS'25)
+#       year: 2025
+#     - maindescription: Program Committee for ACM CCS Workshop on Decentralized Finance and Security (DeFi'24)
+#       year: 2024
     
 
 - title: Miscellaneous 
