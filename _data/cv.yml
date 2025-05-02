@@ -54,6 +54,10 @@
 - title: Teaching
   type: time_table
   contents:
+    - title: TA for 15330 Introduction to Computer Security
+      institution: Carnegie Mellon School of Computer Science (CSD)
+      year: Spring 2025
+      description: Instructor Professor Riccardo Paccagnella and Professor Riad Wahby
     - title: TA for 17703 Cryptocurrencies, Blockchain and Applications
       institution: Carnegie Mellon School of Computer Science (S3D)
       year: Fall 2023
@@ -103,17 +107,14 @@
     - maindescription: Ethereum Foundation Academic Grant Blockchain Censorship (a part of the team) 25K USD
       year: Jan 2024
   
-# - title: Academic service 
-#   type: time_table
-#   contents:
-#     - maindescription: Program Committee for Financial Cryptography and Data Security (FC'25)
-#       year: 2025
-#     - maindescription: Program Committee for Web Conference (WWW'25)
-#       year: 2025
-#     - maindescription: Artifact Review for Privacy Enhancing Technologies Symposium (PETS'25)
-#       year: 2025
-#     - maindescription: Program Committee for ACM CCS Workshop on Decentralized Finance and Security (DeFi'24)
-#       year: 2024
+- title: Academic Service 
+  type: list
+  contents:
+    - Program Committee for Financial Cryptography and Data Security (FC'25)
+    - Program Committee for Web Conference (WWW'25)
+    - Program Committee for ACM CCS Workshop on Decentralized Finance and Security (DeFi'24)
+    - Artifact Review for Privacy Enhancing Technologies Symposium (PETS'25)
+    # - Cylab Student Seminar 2024-Present
     
 
 - title: Miscellaneous 
