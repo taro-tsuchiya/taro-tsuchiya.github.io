@@ -17,9 +17,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, welcome to my webpage! I am a 4th-year Ph.D. student at Carnegie Mellon University ([CMU](https://www.cmu.edu/){:target="\_blank"}) School of Computer Science ([SCS](https://www.cs.cmu.edu/){:target="\_blank"}). 
 I am fortunate to be advised by Dr. [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/){:target="\_blan} and work with his team at [CyLab](https://www.cylab.cmu.edu/){:target="\_blank"} (Security and Privacy Institute). 
-My primary research focuses on enhancing the safety, security, and privacy of modern financial systems.
-Specifically, I work on detecting and mitigating sybil, phishing, and denial-of-service attacks. 
-I mainly investigate two key areas: 1) blockchain peer-to-peer networks and wallets (SIGMETRICS'25, WWW'24), and 2) online platforms such as social media and digital marketplaces (WWW'24, WWW'23).
+My research aims to enhance the safety and security of financial services through the lens of computer security. 
+I study system- and software-level attacks, including denial-of-service and dusting attacks on blockchain, while also addressing societal threats such as Sybil attacks, toxicity, and market manipulation.
 I am also a recipient of the Nakajima Foundation Fellowship for my doctoral studies.  
 
 Prior to CMU, I did my undergraduate at Keio University and enrolled in the selected all-English undergraduate program, PEARL (Program in Economics for Alliances, Research, and Leadership). 
