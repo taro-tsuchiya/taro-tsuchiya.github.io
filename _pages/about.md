@@ -19,7 +19,7 @@ Hello, welcome to my webpage! I am a 4th-year Ph.D. student at Carnegie Mellon U
 I am fortunate to be advised by Dr. [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/){:target="\_blan} and work with his team at [CyLab](https://www.cylab.cmu.edu/){:target="\_blank"} (Security and Privacy Institute). 
 My research aims to enhance the safety and security of financial services through the lens of computer security. 
 I study system- and software-level attacks, including denial-of-service and address poisoning attacks on blockchain, while also addressing societal threats such as Sybil attacks, spam, toxicity, and market manipulation.
-My first-author papers have been published at the top-tier computer security and measurement conferences, including USENIX'25, SIGMETRICS'25, WWW'24, and WWW'23. 
+<!-- My first-author papers have been published at the top-tier computer security and measurement conferences, including USENIX'25, SIGMETRICS'25, WWW'24, and WWW'23.  -->
 I am also a recipient of the Nakajima Foundation Fellowship for my doctoral studies.  
 
 Prior to CMU, I did my undergraduate at Keio University and enrolled in the selected all-English undergraduate program, PEARL (Program in Economics for Alliances, Research, and Leadership). 
