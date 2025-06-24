@@ -70,6 +70,12 @@
 - title: Talk  
   type: time_table
   contents:
+    - maindescription: Paper Presentation at Cambridge Cybercrime Centre Eighth Annual Cybercrime Conference, Stony Brook, USA
+      year: Jun 2025
+    - maindescription: Paper Presentation at ACM SIGMETRICS, Stony Brook, USA
+      year: Jun 2025
+    - maindescription: Paper Presentation at Cylab Student Seminar, Pittsburgh, USA
+      year: May 2025
     - maindescription: Invited Talk at University of Sydney, DeSci Seminar, Online
       year: Oct 2024
     - maindescription: Paper Presentation at Cylab Partner's Conference, Pittsburgh, USA
@@ -78,13 +84,13 @@
       year: Sep 2024
     - maindescription: Paper Presentation at Web Conference (WWW'23), Austin, USA
       year: May 2023
-    - maindescription: Guest lecture at Keio University Cyber Civilization Revolution and Evolution "The contradictory world of cryptocurrencies"
+    - maindescription: Guest lecture at Keio University Cyber Civilization Revolution and Evolution "The contradictory world of cryptocurrencies," Online
       year: Nov 2022
     - maindescription: Paper Presentation talk at Societal Computing Seminar at CMU S3D, Pittsburgh, USA
       year: Nov 2022
-    - maindescription: Guest lecture at Keio University Cyber Civilization Revolution and Evolution "Society and cryptocurrencies"
+    - maindescription: Guest lecture at Keio University Cyber Civilization Revolution and Evolution "Society and cryptocurrencies," Online
       year: Jun 2022
-    - maindescription: Organizer at the 50 years of Distributed Computing System (DCS) online video conference
+    - maindescription: Organizer at the 50 years of Distributed Computing System (DCS), Online
       year: Mar 2021
     - maindescription: Paper presentation at Japan Joint Statistical Meeting 2020, Online
       year: Sep 2020
