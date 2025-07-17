@@ -73,13 +73,19 @@
 - title: Talk  
   type: time_table
   contents:
+    - maindescription: Invited Talk at University of College London <a href="https://www.linkedin.com/events/7349069350990929921/comments/">Centre for Blockchain Technologies</a>, London, UK
+      year: Jul 2025
+    - maindescription: Invited Talk at University of Cambridge <a href="https://talks.cam.ac.uk/talk/index/234238">Computer Laboratory Security Seminar</a>, Cambridge, UK, <a href="https://www.cl.cam.ac.uk/research/security/seminars/archive/video/2025-07-15-t234238.html">Video</a> 
+      year: Jul 2025
+    - maindescription: Invited Talk at TRM Labs, Online
+      year: Jul 2025
     - maindescription: Paper Presentation at Cambridge Cybercrime Centre Eighth Annual Cybercrime Conference, Cambridge, UK
       year: Jun 2025
     - maindescription: Paper Presentation at ACM SIGMETRICS, Stony Brook, USA
       year: Jun 2025
     - maindescription: Paper Presentation at Cylab Student Seminar, Pittsburgh, USA
       year: May 2025
-    - maindescription: Invited Talk at University of Sydney, DeSci Seminar, Online
+    - maindescription: Invited Talk at University of Sydney, <a href="https://usyd-desci.github.io/seminar.html">DeSci Seminar</a>, Online
       year: Oct 2024
     - maindescription: Paper Presentation at Cylab Partner's Conference, Pittsburgh, USA
       year: Sep 2024
