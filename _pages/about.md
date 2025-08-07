@@ -15,17 +15,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, welcome to my webpage! I am a 4th-year Ph.D. student at Carnegie Mellon University ([CMU](https://www.cmu.edu/){:target="\_blank"}) School of Computer Science ([SCS](https://www.cs.cmu.edu/){:target="\_blank"}). 
+Hello, welcome to my webpage! I am a 5th-year Ph.D. student at Carnegie Mellon University ([CMU](https://www.cmu.edu/){:target="\_blank"}) School of Computer Science ([SCS](https://www.cs.cmu.edu/){:target="\_blank"}). 
 I am fortunate to be advised by Dr. [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/){:target="\_blan} and work with his team at [CyLab](https://www.cylab.cmu.edu/){:target="\_blank"} (Security and Privacy Institute). 
 My research aims to enhance the safety and security of financial services through the lens of computer security. 
-I study system- and software-level attacks, including denial-of-service and address poisoning attacks on blockchain, while also addressing societal threats such as Sybil attacks, spam, toxicity, and market manipulation.
+I study system- and software-level attacks, including denial-of-service and address poisoning on blockchain, while also addressing societal threats such as Sybil attacks, spam, toxicity, and market manipulation.
 <!-- My first-author papers have been published at the top-tier computer security and measurement conferences, including USENIX'25, SIGMETRICS'25, WWW'24, and WWW'23.  -->
 I am also a recipient of the Nakajima Foundation Fellowship for my doctoral studies.  
 
-Prior to CMU, I did my undergraduate at Keio University and enrolled in the selected all-English undergraduate program, PEARL (Program in Economics for Alliances, Research, and Leadership). 
-I also studied in [SOAS University of London](https://www.soas.ac.uk/) for one term in 2017. 
-During my undergrad, I was a research assistant at Cyber Civilization Research Center ([CCRC](https://www.ccrc.keio.ac.jp/){:target="\_blank"}), worked with Dr. David Farber and Dr. [Cameron Freer](https://cfreer.org/){:target="\_blank"}. 
-I did a long-term internship at Mitsubishi UFJ Bank as an research intern.
+<!-- Prior to CMU, I did my undergraduate at Keio University and enrolled in the selected all-English undergraduate program, PEARL (Program in Economics for Alliances, Research, and Leadership). 
+I also studied in [SOAS University of London](https://www.soas.ac.uk/) for one term in 2017.  -->
+I was a research assistant at Cyber Civilization Research Center ([CCRC](https://www.ccrc.keio.ac.jp/){:target="\_blank"}) (under Dr. David Farber and Dr. [Cameron Freer](https://cfreer.org/){:target="\_blank"}) in 2021 and was a research visitor at University of Cambridge, Department of Computer Science and Technology (under Professor [Alice Hutchings](https://www.cl.cam.ac.uk/~ah793/){:target="\_blank"}) in 2025. 
+<!-- I did a long-term internship at Mitsubishi UFJ Bank as an research intern in 2020. -->
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
