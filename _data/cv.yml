@@ -73,6 +73,10 @@
 - title: Talk  
   type: time_table
   contents:
+    - maindescription: Invited Talk at Chainalysis, Online
+      year: Sep 2025
+    - maindescription: Invited Talk at University of Sydney,  <a href="https://usyd-desci.github.io/seminar.html">DeSci Seminar</a>, Online
+      year: Sep 2025
     - maindescription: Paper Presentation at USENIX Security Symposium <a href="https://www.usenix.org/conference/usenixsecurity25/technical-sessions">USENIX'25</a>, Seattle, USA
       year: Aug 2025
     - maindescription: Paper Presentation at Science of Blockchain Conference <a href="https://www.sbc-conference.com/2025/">SBC'25</a>, Berkeley, USA, <a href="https://www.youtube.com/watch?v=_2gnJjvodws&list=PLS01nW3RtgorIUziK9tBT9ybvuUw38kD0&index=3&t=566s">Video</a>
