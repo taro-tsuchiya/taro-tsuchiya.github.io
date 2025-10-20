@@ -20,16 +20,16 @@
         - Societal Computing Program at Software and Societal Systems Department (<a href="https://s3d.cmu.edu/">S3D</a>)
         - Doctoral researcher at <a href="https://www.cylab.cmu.edu/">Cylab</a> (Security and Privacy Institute)
         - Advisor <a href="https://www.andrew.cmu.edu/user/nicolasc/">Dr. Nicolas Christin</a>
-        - title: Courses taken (by the order of recency)
-          contents:
-            - Foundations of Privacy 
-            - Artificial Intelligence Methods for Social Good
-            - Advanced Natural Language Processing
-            - Introduction to Information Security
-            - Dynamic Network Analysis
-            - Cryptocurrency, Blockchain, and Application
-            - Experimental Design
-            - Societal Computing Practicum
+        # - title: Courses taken (by the order of recency)
+        #   contents:
+        #     - Foundations of Privacy 
+        #     - Artificial Intelligence Methods for Social Good
+        #     - Advanced Natural Language Processing
+        #     - Introduction to Information Security
+        #     - Dynamic Network Analysis
+        #     - Cryptocurrency, Blockchain, and Application
+        #     - Experimental Design
+        #     - Societal Computing Practicum
     - title: Bachelor
       institution: Keio University, Faculty of Economics
       year: Sep 2017 - Jul 2021
@@ -137,8 +137,8 @@
 - title: Academic Service 
   type: list
   contents:
-    - Program Committee for Financial Cryptography and Data Security (FC'25)
-    - Program Committee for Web Conference (WWW'25)
+    - Program Committee for Financial Cryptography and Data Security (FC'25, FC'26)
+    - Program Committee for Web Conference (WWW'25, WWW'26)
     - Program Committee for ACM CCS Workshop on Decentralized Finance and Security (DeFi'24, DeFi'25)
     - Artifact Review for Privacy Enhancing Technologies Symposium (PETS'25)
     - Organizer for Cylab Student Seminar 2024-Present

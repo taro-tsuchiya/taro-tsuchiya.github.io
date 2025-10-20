@@ -17,8 +17,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, welcome to my webpage! I am a 5th-year Ph.D. student at Carnegie Mellon University ([CMU](https://www.cmu.edu/){:target="\_blank"}) School of Computer Science ([SCS](https://www.cs.cmu.edu/){:target="\_blank"}). 
 I am fortunate to be advised by Dr. [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/){:target="\_blan} and work with his team at [CyLab](https://www.cylab.cmu.edu/){:target="\_blank"} (Security and Privacy Institute). 
-My research aims to enhance the safety and security of financial services through the lens of computer security. 
-I study system- and software-level attacks, including denial-of-service and address poisoning on blockchain, while also addressing societal threats such as Sybil attacks, spam, toxicity, and market manipulation.
+My work investigates emerging cybercrime and computer security threats, particularly in financial domain.
+I study system- and software-level attack such as denial-of-service (DoS) and address poisoning on blockchain. I also examine societal threats such as fraud, fake accounts, market manipulation, stolen data, and malicious AI endpoints. 
+<!-- My research aims to enhance the safety and security of financial services through the lens of computer security. 
+I study system- and software-level attacks, including denial-of-service and address poisoning on blockchain, while also addressing societal threats such as Sybil attacks, spam, toxicity, and market manipulation. -->
 <!-- My first-author papers have been published at the top-tier computer security and measurement conferences, including USENIX'25, SIGMETRICS'25, WWW'24, and WWW'23.  -->
 I am also a recipient of the Nakajima Foundation Fellowship for my doctoral studies.  
 
