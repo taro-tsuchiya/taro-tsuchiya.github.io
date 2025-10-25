@@ -73,6 +73,10 @@
 - title: Talk  
   type: time_table
   contents:
+    - maindescription: Invited Talk at <a href="https://blockchain.stern.nyu.edu/">NYU Blockchain Lab Research Talks</a> at Stern, New York City, USA
+      year: Oct 2025
+    - maindescription: Invited Talk at NYU Tandon School of Engineering <a href="https://engineering.nyu.edu/events/2025/10/23/please-verify-how-human-behavior-undermines-blockchain-security">The Center for Cybersecurity, Lecture</a>, New York City, USA
+      year: Oct 2025
     - maindescription: Invited Talk at <a href="https://www.cylab.cmu.edu/research/blockchain/secure-blockchain-summit/index.html">Secure Blockchain Summit</a>, co-located with AFT'25, Pittsburgh, USA
       year: Oct 2025
     - maindescription: Guest lectures at Carnegie Mellon University 17703 (Bitcoin Application + Ethereum), Pittsburgh, USA
