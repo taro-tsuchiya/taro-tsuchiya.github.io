@@ -19,7 +19,7 @@
       description:
         - Societal Computing Program at Software and Societal Systems Department (<a href="https://s3d.cmu.edu/">S3D</a>)
         - Doctoral researcher at <a href="https://www.cylab.cmu.edu/">Cylab</a> (Security and Privacy Institute)
-        - Advisor <a href="https://www.andrew.cmu.edu/user/nicolasc/">Dr. Nicolas Christin</a>
+        - Advisor <a href="https://www.andrew.cmu.edu/user/nicolasc/">Professor Nicolas Christin</a>
         # - title: Courses taken (by the order of recency)
         #   contents:
         #     - Foundations of Privacy 
@@ -48,7 +48,7 @@
       institution: University of Cambridge, Department of Computer Science and Technology (under Professor Alice Hutchings)
       year: Jun 2025 - July 2025
     - title: Research Assistant 
-      institution: Cyber Civilization Research Center (<a href="https://www.ccrc.keio.ac.jp/">CCRC</a>)
+      institution: Cyber Civilization Research Center (<a href="https://www.ccrc.keio.ac.jp/">CCRC</a>) (under Dr. David Farber)
       year: Feb - Jul 2021
     - title: Research Intern
       institution: Mitsubishi UFJ Bank
@@ -73,6 +73,8 @@
 - title: Talk  
   type: time_table
   contents:
+    - maindescription: Invited Talk at <a href="https://www.iwsec.org/css/2025/program.html">Computer Security Symposium 2025</a>, Okayama, Japan (Online)
+      year: Oct 2025
     - maindescription: Invited Talk at <a href="https://blockchain.stern.nyu.edu/">NYU Blockchain Lab Research Talks</a> at Stern, New York City, USA
       year: Oct 2025
     - maindescription: Invited Talk at NYU Tandon School of Engineering <a href="https://engineering.nyu.edu/events/2025/10/23/please-verify-how-human-behavior-undermines-blockchain-security">The Center for Cybersecurity, Lecture</a>, New York City, USA
