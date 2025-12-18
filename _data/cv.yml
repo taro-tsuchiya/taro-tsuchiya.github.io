@@ -73,6 +73,8 @@
 - title: Talk  
   type: time_table
   contents:
+    - maindescription: Invited Talk at University of Chicago, <a href="https://noise.cs.uchicago.edu/">Network Operations and Internet Security (Noise) Lab</a>, Chicago, USA
+      year: Dec 2025
     - maindescription: Invited Talk at <a href="https://www.iwsec.org/css/2025/program.html">Computer Security Symposium 2025</a>, Okayama, Japan (Online)
       year: Oct 2025
     - maindescription: Invited Talk at <a href="https://blockchain.stern.nyu.edu/">NYU Blockchain Lab Research Talks</a> at Stern, New York City, USA
