@@ -73,6 +73,10 @@
 - title: Talk  
   type: time_table
   contents:
+    - maindescription: Invited Talk at University of Tokyo, <a href="https://www.iis.u-tokyo.ac.jp/en/">Institute of Industrial Science (IIS)</a>, Tokyo, Japan
+      year: Dec 2025
+    - maindescription: Invited Talk at Deloitte Tohmatsu, <a href="https://www.deloitte.com/jp/ja/services/risk-advisory/about/dt-arlcs.html">Advanced Research Laboratory of Cyber Security</a>, Tokyo, Japan
+      year: Dec 2025
     - maindescription: Invited Talk at University of Chicago, <a href="https://noise.cs.uchicago.edu/">Network Operations and Internet Security (Noise) Lab</a>, Chicago, USA
       year: Dec 2025
     - maindescription: Invited Talk at <a href="https://www.iwsec.org/css/2025/program.html">Computer Security Symposium 2025</a>, Okayama, Japan (Online)
