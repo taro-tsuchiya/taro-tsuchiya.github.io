@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, welcome to my webpage! I am a 5th-year Ph.D. student at Carnegie Mellon University ([CMU](https://www.cmu.edu/){:target="\_blank"}) School of Computer Science ([SCS](https://www.cs.cmu.edu/){:target="\_blank"}). 
 I am fortunate to be advised by Professor [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/){:target="\_blank"} and work with his team at [CyLab](https://www.cylab.cmu.edu/){:target="\_blank"} (Security and Privacy Institute). 
-My work investigates real-world cybercrime and computer security attacks at scale, especially those that target financial systems. 
+My work investigates real-world cybercrime and computer security attacks at scale, particularly those targeting financial systems. 
 The examples include denial-of-service (DoS) ([SIGMETRICES'25](https://dl.acm.org/doi/10.1145/3711697)), address poisoning ([USENIX Security'25](https://www.usenix.org/conference/usenixsecurity25/presentation/tsuchiya)), and fake accounts and fraud ([WWW'24](https://dl.acm.org/doi/10.1145/3589334.3645475), [WWW'23](https://dl.acm.org/doi/10.1145/3543507.3583385)). 
 <!-- I study system- and software-level attacks such as denial-of-service (DoS) and address poisoning on blockchain. I also research societal threats such as fraud, fake accounts, market manipulation, stolen data, and malicious AI endpoints.  -->
 <!-- My research aims to enhance the safety and security of financial services through the lens of computer security. 

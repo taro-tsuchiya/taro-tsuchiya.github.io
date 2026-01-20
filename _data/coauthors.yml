@@ -21,3 +21,11 @@
 "Gervais":
   - firstname: ["Arthur", "A."]
     url: https://arthurgervais.com/
+  
+"Marjanov":
+  - firstname: ["Tina", "T."]
+    url: https://www.cst.cam.ac.uk/people/tm794
+  
+"Hutchings":
+  - firstname: ["Alice", "A"]
+    url: https://www.cl.cam.ac.uk/~ah793/
