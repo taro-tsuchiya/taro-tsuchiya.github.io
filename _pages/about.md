@@ -27,7 +27,7 @@ I am a recipient of the Nakajima Foundation Fellowship and the CyLab Presidentia
 
 <!-- Prior to CMU, I did my undergraduate at Keio University and enrolled in the selected all-English undergraduate program, PEARL (Program in Economics for Alliances, Research, and Leadership). 
 I also studied in [SOAS University of London](https://www.soas.ac.uk/) for one term in 2017.  -->
-I was a research assistant at Cyber Civilization Research Center ([CCRC](https://www.ccrc.keio.ac.jp/){:target="\_blank"}) (under Dr. David Farber and Dr. [Cameron Freer](https://cfreer.org/){:target="\_blank"}) in 2021 and was a research visitor at University of Cambridge, Department of Computer Science and Technology (under Professor [Alice Hutchings](https://www.cl.cam.ac.uk/~ah793/){:target="\_blank"}) in 2025. 
+Previously, I was a research assistant at Cyber Civilization Research Center ([CCRC](https://www.ccrc.keio.ac.jp/){:target="\_blank"}) under Dr. David J. Farber in 2021 and was a research visitor at the University of Cambridge, Department of Computer Science and Technology under Professor [Alice Hutchings](https://www.cl.cam.ac.uk/~ah793/{:target="\_blank"}) in 2025. 
 <!-- I did a long-term internship at Mitsubishi UFJ Bank as an research intern in 2020. -->
 
 <!--
