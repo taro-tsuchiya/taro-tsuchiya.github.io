@@ -73,6 +73,8 @@
 - title: Talk  
   type: time_table
   contents:
+    - maindescription: Invited Talk at University of Pennsylvania, <a href="https://cybersecurity.seas.upenn.edu/seminar-speaker-taro-tsuchiya/">Schlein Center for Cybersecurity Seminar Series</a>, Philadelphia, USA
+      year: Mar 2026
     - maindescription: Invited Talk at University of Tokyo, <a href="https://www.iis.u-tokyo.ac.jp/en/">Institute of Industrial Science (IIS)</a>, Tokyo, Japan
       year: Dec 2025
     - maindescription: Invited Talk at Deloitte Tohmatsu, <a href="https://www.deloitte.com/jp/ja/services/risk-advisory/about/dt-arlcs.html">Advanced Research Laboratory of Cyber Security</a>, Tokyo, Japan
