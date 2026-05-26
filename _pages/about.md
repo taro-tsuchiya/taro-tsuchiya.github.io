@@ -30,6 +30,8 @@ I also studied in [SOAS University of London](https://www.soas.ac.uk/) for one t
 Previously, I was a research assistant at Cyber Civilization Research Center ([CCRC](https://www.ccrc.keio.ac.jp/){:target="\_blank"}) under Dr. David J. Farber in 2021 and was a research visitor at the University of Cambridge, Department of Computer Science and Technology under Professor [Alice Hutchings](https://www.cl.cam.ac.uk/~ah793/{:target="\_blank"}) in 2025. 
 <!-- I did a long-term internship at Mitsubishi UFJ Bank as an research intern in 2020. -->
 
+I am maintaining blockchain address poisoning detection system, Toxin Tagger (T-T) ([website](https://cryptotrade.cylab.cmu.edu/poisoning/){:target="\_blank"}, [X Bot](https://x.com/toxin_tagger){:target="\_blank"}).
+
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
