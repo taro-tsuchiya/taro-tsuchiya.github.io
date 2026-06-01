@@ -73,6 +73,8 @@
 - title: Talk  
   type: time_table
   contents:
+    - maindescription: Paper Presentation at AAAI Conference on Web and Social Media <a href="https://www.icwsm.org/2026/program.html#schedule-wednesday-may-27">ICWSM'26</a>, Los Angeles, USA
+      year: May 2026
     - maindescription: Invited Talk at University of Pennsylvania, <a href="https://cybersecurity.seas.upenn.edu/seminar-speaker-taro-tsuchiya/">Schlein Center for Cybersecurity Seminar Series</a>, Philadelphia, USA
       year: Mar 2026
     - maindescription: Invited Talk at University of Tokyo, <a href="https://www.iis.u-tokyo.ac.jp/en/">Institute of Industrial Science (IIS)</a>, Tokyo, Japan
