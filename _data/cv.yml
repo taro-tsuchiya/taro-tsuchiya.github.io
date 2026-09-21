@@ -144,20 +144,21 @@
 #     - maindescription: The Nakajima Foundation, Ph.D. Fellowship
 #       year: Aug 2021 - Jul 2023
 
-- title: Research Grants
-  type: time_table
-  contents:
-    - maindescription: Sui Academic Research Award from the Sui Foundation (a main researcher) 25K USD
-      year: Jun 2024
-    - maindescription: Ethereum Foundation Academic Grant Blockchain Censorship (a part of the team) 25K USD
-      year: Jan 2024
+# - title: Research Grants
+#   type: time_table
+#   contents:
+#     - maindescription: Sui Academic Research Award from the Sui Foundation (a main researcher) 25K USD
+#       year: Jun 2024
+#     - maindescription: Ethereum Foundation Academic Grant Blockchain Censorship (a part of the team) 25K USD
+#       year: Jan 2024
   
 - title: Academic Service 
   type: list
   contents:
+    - Program Committee for USENIX Security Symposium (USENIX'27)
     - Program Committee for Financial Cryptography and Data Security (FC'25, FC'26)
     - Program Committee for Web Conference (WWW'25, WWW'26)
-    - Program Committee for ACM CCS Workshop on Decentralized Finance and Security (DeFi'24, DeFi'25)
+    - Program Committee for ACM CCS Workshop on Decentralized Finance and Security (DeFi'24, DeFi'25, DeFi'26)
     - Artifact Review for Privacy Enhancing Technologies Symposium (PETS'25)
     - Organizer for Cylab Student Seminar 2024-Present
     
@@ -165,6 +166,6 @@
 - title: Miscellaneous 
   type: list
   contents:
-    - <u>Sports:</u> I genuinely like watching any kind of sports, but my favorite is rugby and baseball. I also used to practice Judo back in my high school. Surprisingly, I have a black belt. 
+    - <u>Sports:</u> I genuinely like watching any kind of sports, but my favorite is rugby and baseball. I also used to practice judo back in my high school and have a black belt. 
     - <u>Violin:</u> I had played the violin for 19 years (including my favorite 6 years in Tokyo Junior Philharmonic Orchestra). 
-    - <u>Food:</u> I go to New York for bagels. I also just love fruits (passion fruits and guava in particular). 
+    - <u>Food:</u> I like going to restaurants. I go to New York for bagels. I also love fruits (passion fruits and guava in particular). 
