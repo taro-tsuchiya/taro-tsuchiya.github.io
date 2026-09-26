@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 I am a final-year Ph.D. candidate at Carnegie Mellon University ([CMU](https://www.cmu.edu/){:target="\_blank"}) School of Computer Science ([SCS](https://www.cs.cmu.edu/){:target="\_blank"}). 
 I am fortunate to be advised by Professor [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/){:target="\_blank"} and affiliated with [CyLab](https://www.cylab.cmu.edu/){:target="\_blank"} (Security and Privacy Institute). 
 I study emerging cybercrime and gray services online and build a continuous, large-scale data collection system.
-The goal is to use these data to infer how an adversary builds and operate their infrastructure.
+The goal is to use these data to infer how an adversary builds and operates their infrastructure.
 
 The notable examples include 
 - denial-of-service ([SIGMETRICS'25](https://dl.acm.org/doi/10.1145/3711697))
