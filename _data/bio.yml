@@ -1,0 +1,59 @@
+"education":
+- "institution": "Carnegie Mellon University"
+  "degree": "PhD (in progress), MS"
+  "details":
+  - "School of Computer Science, Software and Societal Systems Department (S3D), Societal Computing"
+  - "Supervisor: Professor Nicolas Christin"
+  "date": "Aug 2021 -- May 2027 (expected)"
+- "institution": "Keio University"
+  "degree": "Bachelor"
+  "details":
+  - "Department of Economics, PEARL Programme (an all-English curriculum)"
+  - "Supervisor: Professor Teruo Nakatsuma, Professor David J. Farber"
+  "date": "Sep 2017 -- Aug 2021"
+"experience":
+- "role": "Doctoral Researcher"
+  "institution": "Cylab"
+  "extra": "Pittsburgh, USA"
+  "date": "Aug 2021 – Present"
+  "items": []
+- "role": "Visiting Doctoral Researcher"
+  "institution": "University of Cambridge, Department of Computer Science and Technology"
+  "extra": ""
+  "date": !!null "null"
+  "items":
+  - "text": "Supervisor: Professor Alice Hutchings, Cambridge, UK"
+    "date": "Jun 2025 – Jul 2025"
+- "role": "Research Assistant"
+  "institution": "Cyber Civilization Research Center (CCRC)"
+  "extra": ""
+  "date": !!null "null"
+  "items":
+  - "text": "Supervisor: Professor David Farber, Tokyo, Japan"
+    "date": "Feb 2021 - Jul 2021"
+- "role": "Research Intern"
+  "institution": "Mitsubishi UFJ Bank"
+  "extra": "Tokyo, Japan"
+  "date": "Jan 2020 - Mar 2020"
+  "items": []
+"award":
+- "detail": "Cylab Presidential Fellowship [<a href=\"https://www.cylab.cmu.edu/news/2025/10/20-presidential-fellows.html\" target=\"_blank\">Post</a>]"
+  "date": "Aug 2025 - Jul 2026"
+  "items": []
+- "detail": "The Nakajima Foundation, Ph.D. Fellowship"
+  "date": "Aug 2021 - Jul 2026"
+  "items": 
+  - Awarded three times (2021, 2023, 2025)
+- "detail": "Carnegie Mellon University’s School of Computer Science Dean’s Fellowship"
+  "date": "Aug 2021 - Jul 2022"
+  "items": []
+- "detail": "Excellent Graduation Theses, Keio University Faculty of Economics, [<a href=\"https://www.econ.keio.ac.jp/en/undergraduate/seminar/seminar-outline/ep2021\" target=\"_blank\">Post</a>]"
+  "date": "2021"
+  "items":
+  - "“Forecasting Cryptocurrency Intraday Volatility using Information Flow on Telegram.”"
+- "detail": "USENIX Student Travel Grant 1125 USD * 2"
+  "date": "2025, 2026"
+- "detail": "ACM SIGMETRICS Travel Grant 750 USD"
+  "date": "2025"
+- "detail": "Carnegie Mellon University GSA Conference Travel Fund 750 USD * 2"
+  "date": "2023, 2024"

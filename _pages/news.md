@@ -4,7 +4,7 @@ permalink: /news/
 title: news
 description: All historical news and announcements
 nav: true
-nav_order: 7
+nav_order: 8
 ---
 
 <!-- _pages/news.md -->
