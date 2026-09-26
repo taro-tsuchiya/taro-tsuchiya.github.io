@@ -33,7 +33,7 @@ The notable examples include
 I study system- and software-level attacks, including denial-of-service and address poisoning on blockchain, while also addressing societal threats such as Sybil attacks, spam, toxicity, and market manipulation. -->
 <!-- My first-author papers have been published at the top-tier computer security and measurement conferences, including USENIX'25, SIGMETRICS'25, WWW'24, and WWW'23.  -->
 
-I am a recipient of the Nakajima Foundation Fellowship and the [CyLab Presidential](https://www.cylab.cmu.edu/news/2025/10/20-presidential-fellows.html) Fellowship for my doctoral studies.
+I am a recipient of the Nakajima Foundation Fellowship and the [CyLab Presidential Fellowship](https://www.cylab.cmu.edu/news/2025/10/20-presidential-fellows.html) for my doctoral studies.
 
 <!-- Prior to CMU, I did my undergraduate at Keio University and enrolled in the selected all-English undergraduate program, PEARL (Program in Economics for Alliances, Research, and Leadership). 
 I also studied in [SOAS University of London](https://www.soas.ac.uk/) for one term in 2017.  -->
