@@ -7,7 +7,7 @@ description:
 profile:
   align: right
   image: taro_pic.jpg
-  address: (email) ttsuchiy at cs.cmu.edu
+  address: (email) ttsuchiy at andrew.cmu.edu
 
 news: true  # includes a list of news items
 # latest_posts: true  # includes a list of the newest posts
