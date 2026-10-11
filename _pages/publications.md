@@ -9,6 +9,8 @@ nav_order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
+<p class="text-muted"><small>*Joint first authors with equal contribution, ordered alphabetically.</small></p>
+
 {% bibliography -f {{ site.scholar.bibliography }} %}
 
 </div>
