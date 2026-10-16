@@ -15,6 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<strong style="color: var(--global-theme-color);">I am currently on the academic job market, looking for a tenure-track Assistant Professor position.</strong>
+
 I am a final-year Ph.D. candidate at Carnegie Mellon University ([CMU](https://www.cmu.edu/){:target="\_blank"}) School of Computer Science ([SCS](https://www.cs.cmu.edu/){:target="\_blank"}), advised by Professor [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/){:target="\_blank"} and affiliated with [CyLab](https://www.cylab.cmu.edu/){:target="\_blank"} (CMU's security and privacy institute). 
 I study emerging cybercrime and illicit online services and build continuous, large-scale measurement systems.
 The goal is to use these data to infer how an adversary builds and operates their supply chain and backend infrastructure.
