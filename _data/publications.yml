@@ -1,0 +1,75 @@
+- "section": "Conference Papers"
+  "items":
+  - "venue": "CCS'26"
+    "title": "Meme Coin Factories: Uncovering Large-Scale Manipulations on pump.fun."
+    "authors": ["Szwajcok, N.*", "Tsuchiya, T.*", "Liu, E.", "Soska, K.", "Payer, M.", "Christin, N."]
+    "note": "*joint-first author"
+    "detail": "In Proceedings of ACM Conference on Computer and Communications Security (CCS), The Hague, Nov 2026"
+    "links":
+    - {"label": "Paper", "url": "https://arxiv.org/abs/2609.10246"}
+    - {"label": "Dataset", "url": "https://kilthub.cmu.edu/articles/dataset/Meme_Coin_Factories_Uncovering_Large-Scale_Manipulations_on_pump_fun_dataset_/33420628"}
+  - "venue": "USENIX Security'26"
+    "title": "Stayin' Alive: How Global Stolen Data Markets Thrive on Telegram."
+    "authors": ["Marjanov, T.", "Tsuchiya, T.", "Ioannidis, K.", "Hughes, J.", "Christin, N.", "Hutchings, A."]
+    "detail": "In Proceedings of the 35th USENIX Security Symposium, Baltimore, Aug 2026"
+    "links":
+    - {"label": "Paper", "url": "https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_marjanov.pdf"}
+    - {"label": "Slide", "url": "/assets/pdf/tsuchiya_usenix26_slides.pdf"}
+    - {"label": "Poster", "url": "/assets/pdf/tsuchiya_usenix26_poster.pdf"}
+  - "venue": "ICWSM'26"
+    "title": "A Large-Scale Study of Telegram Bots."
+    "authors": ["Tsuchiya, T.", "Yu, H.", "Marjanov, T.", "Hutchings, A.", "Christin, N.", "Cuevas, A."]
+    "detail": "In Proceedings of the 20th International Conference on Web and Social Media (ICWSM), Los Angeles, May 2026"
+    "links":
+    - {"label": "Paper", "url": "https://ojs.aaai.org/index.php/ICWSM/article/view/42750"}
+    - {"label": "Code", "url": "https://github.com/taro-tsuchiya/TelegramBots"}
+    - {"label": "Dataset", "url": "https://zenodo.org/records/17281308"}
+  - "venue": "USENIX Security'25"
+    "title": "Blockchain Address Poisoning."
+    "authors": ["Tsuchiya, T.", "Dong, J.", "Soska, K.", "Christin, N."]
+    "detail": "In Proceedings of the 34th USENIX Security Symposium, Seattle, Aug 2025"
+    "links":
+    - {"label": "Paper", "url": "https://arxiv.org/abs/2501.16681"}
+    - {"label": "Dataset", "url": "https://kilthub.cmu.edu/articles/dataset/Blockchain_Address_Poisoning_Companion_Dataset_/29212703/1"}
+    - {"label": "Website", "url": "https://cryptotrade.cylab.cmu.edu/poisoning/"}
+    - {"label": "Social media feed", "url": "https://x.com/toxin_tagger"}
+  - "venue": "SIGMETRICS'25"
+    "title": "Blockchain Amplification Attack."
+    "authors": ["Tsuchiya, T.", "Zhou, L.", "Qin, K.", "Gervais, A.", "Christin, N."]
+    "detail": "In Proceedings of the 2025 ACM SIGMETRICS Conference, Stony Brook, Jun 2025"
+    "links":
+    - {"label": "Paper", "url": "https://dl.acm.org/doi/10.1145/3711697"}
+    - {"label": "Code", "url": "https://github.com/taro-tsuchiya/BlockchainAmplification"}
+  - "venue": "WWW'24"
+    "title": "Identifying Risky Vendors in Cryptocurrency P2P Marketplaces."
+    "authors": ["Tsuchiya, T.", "Cuevas, A.", "Christin, N."]
+    "detail": "In Proceedings of the ACM Web Conference, Singapore, May 2024"
+    "links":
+    - {"label": "Paper", "url": "https://dl.acm.org/doi/10.1145/3589334.3645475"}
+    - {"label": "Poster", "url": "/assets/pdf/tsuchiya2024identifying_poster.pdf"}
+  - "venue": "WWW'24"
+    "title": "Blockchain Censorship."
+    "authors": ["Wahrstätter, A.", "Ernstberger, J.", "Yaish, A.", "Zhou, L.", "Qin, K.", "Tsuchiya, T.", "Steinhorst, S.", "Svetinovic, D.", "Christin, N.", "Barczentewicz, M.", "Gervais, A."]
+    "detail": "In Proceedings of the ACM Web Conference, Singapore, May 2024"
+    "links":
+    - {"label": "Paper", "url": "https://dl.acm.org/doi/10.1145/3589334.3645431"}
+  - "venue": "WWW'23"
+    "title": "Misbehavior and Account Suspension in an Online Financial Communication Platform."
+    "authors": ["Tsuchiya, T.", "Cuevas, A.", "Magelinski, T.", "Christin, N."]
+    "detail": "In Proceedings of the ACM Web Conference, Austin, May 2023"
+    "links":
+    - {"label": "Paper", "url": "https://dl.acm.org/doi/10.1145/3543507.3583385"}
+- "section": "Journals"
+  "items":
+  - "title": "Profitability of Cryptocurrency Pump and Dump Schemes."
+    "authors": ["Tsuchiya, T."]
+    "detail": "Journal of Digital Finance, 2021"
+    "links":
+    - {"label": "Paper", "url": "https://link.springer.com/article/10.1007/s42521-021-00034-6"}
+    - {"label": "Code", "url": "https://github.com/taro-tsuchiya/Profitability-of-Cryptocurrency-Pump-and-Dump-Schemes"}
+- "section": "Preprints"
+  "items":
+  - "title": "Holding Agents Accountable with Verifiable Agent Insurance."
+    "authors": ["Hua, C.", "Tsuchiya, T.", "Christin, N.", "Fanti, G."]
+    "links":
+    - {"label": "Paper", "url": "http://arxiv.org/abs/2610.18230"}
