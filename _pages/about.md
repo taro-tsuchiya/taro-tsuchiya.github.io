@@ -18,8 +18,8 @@ social: true  # includes social icons at the bottom of the page
 <strong style="color: var(--global-theme-color);">I am currently on the academic job market, looking for a tenure-track Assistant Professor position.</strong>
 
 I am a final-year Ph.D. candidate at Carnegie Mellon University ([CMU](https://www.cmu.edu/){:target="\_blank"}) School of Computer Science ([SCS](https://www.cs.cmu.edu/){:target="\_blank"}), advised by Professor [Nicolas Christin](https://www.andrew.cmu.edu/user/nicolasc/){:target="\_blank"} and affiliated with [CyLab](https://www.cylab.cmu.edu/){:target="\_blank"} (CMU's security and privacy institute). 
-I study emerging cybercrime and illicit online services and build continuous, large-scale measurement systems.
-The goal is to use these data to infer how an adversary builds and operates their supply chain and backend infrastructure.
+I study emerging cybercrime and illicit online services by building large-scale longitudinal measurement systems.
+My goal is to use these data to infer cybercrime supply chains, and devise better defenses. 
 
 The notable examples include 
 - denial-of-service ([SIGMETRICS'25](https://dl.acm.org/doi/10.1145/3711697))
@@ -38,7 +38,7 @@ I am a recipient of the Nakajima Foundation Fellowship and the [CyLab Presidenti
 
 <!-- Prior to CMU, I did my undergraduate at Keio University and enrolled in the selected all-English undergraduate program, PEARL (Program in Economics for Alliances, Research, and Leadership). 
 I also studied in [SOAS University of London](https://www.soas.ac.uk/) for one term in 2017.  -->
-Previously, I was was a research visitor at the University of Cambridge, Department of Computer Science and Technology under Professor [Alice Hutchings](https://www.cl.cam.ac.uk/~ah793/) (2025) and a research assistant at Cyber Civilization Research Center ([CCRC](https://www.ccrc.keio.ac.jp/){:target="\_blank"}) under Professor [David J. Farber](https://www.post-gazette.com/news/obituaries/2026/03/08/carnegie-mellon-david-j-farber/stories/202603030052) (2021). 
+Previously, I was a research visitor at the University of Cambridge, Department of Computer Science and Technology under Professor [Alice Hutchings](https://www.cl.cam.ac.uk/~ah793/) (2025) and a research assistant at Cyber Civilization Research Center ([CCRC](https://www.ccrc.keio.ac.jp/){:target="\_blank"}) under Professor [David J. Farber](https://www.post-gazette.com/news/obituaries/2026/03/08/carnegie-mellon-david-j-farber/stories/202603030052) (2021). 
 <!-- I did a long-term internship at Mitsubishi UFJ Bank as an research intern in 2020. -->
 
 I maintain a blockchain address poisoning detection system, Toxin Tagger (T-T) ([website](https://cryptotrade.cylab.cmu.edu/poisoning/){:target="\_blank"}, [X Bot](https://x.com/toxin_tagger){:target="\_blank"}).
